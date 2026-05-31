@@ -1,6 +1,6 @@
 # 🎙️ Product Teardown: Vocallabs.ai
 
-> **Product Intern Assignment** · Submitted: May 31, 2026
+> **Product Intern Assignment** ·
 
 ---
 
@@ -197,5 +197,4 @@ vocallabs-product-teardown/
 
 ---
 
-> All observations based on direct product use as of **May 31, 2026**.  
-> Screenshots embedded in the `.docx` and available in `/screenshots`.
+
